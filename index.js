@@ -13,5 +13,3 @@ get circumference(){
     return this.radius *2 * Math.PI;
   }
 }
-
-
